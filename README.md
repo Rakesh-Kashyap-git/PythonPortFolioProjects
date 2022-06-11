@@ -9,4 +9,4 @@ List of all Data analysis projects done for practice using Python
    
 2. [**Virat Kohli's Batting performance over the years (2008-2017)**](https://github.com/Rakesh-Kashyap-git/PythonPortFolioProjects/blob/main/Virat_Kohli.ipynb)
 
-   In this project we look into Virat Kohli's Batting performance has evovled over years.
+   In this project we look into how Virat Kohli's Batting performance has evovled over years.
